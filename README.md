@@ -1,2 +1,2 @@
 # testing
-This is my training with GitBush console commands 
+This is my training with GitBash console commands 
